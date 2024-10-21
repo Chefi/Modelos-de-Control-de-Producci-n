@@ -1,4 +1,8 @@
+<<<<<<< HEAD:airline-passengers.csv
 "Month,""Total_passengers"""
+=======
+Month,#Passengers
+>>>>>>> c3c38745b2c1130560c423a9f320e6f05e283ec7:AirPassengers.csv
 1949-01,112
 1949-02,118
 1949-03,132
